@@ -1,0 +1,15 @@
+100000000 Core_Java 2007 Mike_Simon 129.99 568
+150000000 Java_Applications_for_Programmers 2010 David_Wilson_and_Jack_Westman 173.25 672
+200000000 From_Java_to_C++ 2008 Linda_Jackson 118.73 439
+250000000 Microsoft_VC++ 2006 Garry_Wesley 165.2 416
+300000000 Software_Engineering 2005 Alain_Macmillan 219.99 651
+350000000 Visual_Basic 2004 Mary_Rosen 108.33 388
+400000000 Database_Systems 2007 Peter_Jones_and_Jack_Lewis 157.87 862
+450000000 VLSI 2008 Martha_Niclson 117.29 360
+500000000 C_# 2007 D._Smith 109.99 387
+550000000 Cellular_Communications 2010 Jones_Tomson 127.87 162
+600000000 Pattern_Recognition 1998 Sam_Davis 212.59 328
+650000000 Programming_Methodologies 2009 Steve_A._Richmond 182.95 590
+700000000 OO_Programming 2008 Frank_Raymond 182.25 439
+750000000 Design_Pattern 2002 Jay_Franklin 122.15 217
+800000000 Networking_and_Data_Communications 2010 Pete_Jonson 229.25 393
